@@ -26,6 +26,8 @@ android {
     namespace "com.tic_tac_toe.tic_tac_toe"
     compileSdkVersion flutter.compileSdkVersion
     ndkVersion flutter.ndkVersion
+    compileSdkVersion 34
+
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
